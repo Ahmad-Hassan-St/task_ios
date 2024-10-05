@@ -1,6 +1,6 @@
 import UIKit
 
-class SleepAndMusicCell: UICollectionViewCell {
+class CustomCollectionView: UICollectionViewCell {
     
     @IBOutlet weak var celebrateImage: UIImageView!
     @IBOutlet weak var lockImage: UIImageView!
